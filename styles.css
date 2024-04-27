@@ -81,7 +81,6 @@ body{
       }
 }
 #tarot-about {
-    background-color: #ffc0cb;
     display: flex;
     flex-wrap: wrap;
   }
@@ -89,6 +88,7 @@ body{
     font-weight: 600;
   }
   #tarot-about > div {
+    background-color: #ffc0cb;
     flex: 1 0 calc(33.333% - 20px); 
     padding: 10px;
     border: 1px solid #ccc;
